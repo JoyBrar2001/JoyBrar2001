@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Next.js and MERN Projects**
 
-- 🌱 I’m currently learning **Next.ks**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **React, Next.js, Tailwind, Node.js, UI/UX anything about Web and Mobile Development**
 
