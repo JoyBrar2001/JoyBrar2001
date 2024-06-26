@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Joy Brar</h1>
-<h3 align="center">A passionate Frontend & UI/UX Developer from India, currently quite familiar with React, Tailwind and other libraries, but soon I do want to switch to Full Stack as well.</h3>
+<h3 align="center">A Full Stack Developer from India, currently in my final year pursuing a B.Tech in Computer Science at Manipal University Jaipur. I am proficient in C++, JavaScript, TypeScript, HTML, CSS, MySQL, and MongoDB, with expertise in frameworks such as React.js, Next.js 14, Node.js, Express.js, and React Native.</h3>
 
-- 🔭 I’m currently working on **React and Tailwind Projects**
+- 🔭 I’m currently working on **Next.js and MERN Projects**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Next.ks**
 
-- 💬 Ask me about **React, Tailwind, UI, anything about Frontend**
+- 💬 Ask me about **React, Next.js, Tailwind, Node.js, UI/UX anything about Web and Mobile Development**
 
 - 📫 How to reach me **joybrar2001@gmail.com**
 
